@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on getting TrailBound ready for release on the Apple App Store.<br>🌱 I’m currently studying Computer Science at the University of North Carolina at Charlotte.<br>👯 I’m looking to collaborate on more projects involving React or React Native.<br>
+🔭 I’m currently a Software Engineer at Siemens.<br>🌱 I’m a Computer Science graduate from the University of North Carolina at Charlotte.<br>👯 I’m currently enjoying working on React Native projects.<br>
 
 
 ## 🌐 Socials:
